@@ -5,7 +5,8 @@
   "main": "db.js",
   "type": "module",
   "scripts": {
-    "db": "npm install && node --env-file=.env db.js"
+    "db": "npm install && node --env-file=.env db.js",
+    "db1": "npm install && node --env-file=.env db1.js"
   },
   "keywords": [],
   "author": "",
